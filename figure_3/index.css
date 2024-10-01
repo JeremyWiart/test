@@ -1,0 +1,38 @@
+main{
+    display: flex;
+    flex-direction: column;
+    height: 530px;
+    margin-left: -8px;
+    margin-right: -10px;
+    margin-top: -10px;
+    
+    
+}
+
+
+
+div.cont{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-bottom: -10px;
+}
+div.zg{
+    
+    background-color: rgb(10, 141, 97);
+    width:50%;
+    height: 100%;
+}
+
+div.zd{
+    background-color: rgb(185, 4, 170);
+    width:50%;
+    height: 100%;
+}
+
+div.zb{
+    
+    background-color: rgb(133, 120, 4);
+    width:100%;
+    height: 20%;
+}
