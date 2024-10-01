@@ -1,0 +1,28 @@
+main{
+   
+    height: 543px;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -8px;
+    
+}
+
+header.zh{
+    background-color: red;
+    width: 100%;
+    height: 20%;
+}
+
+
+section.zg{
+    
+    background-color: blue;
+    width:20%;
+    height: 80%;
+}
+
+section.zm{
+    background-color: green;
+    width:60%;
+    height: 80%;
+}

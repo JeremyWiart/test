@@ -1,0 +1,43 @@
+main{
+    display: flex;
+    height: 543px;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -8px;
+    
+}
+table{
+   
+   width: 100%;
+   height: 100%;
+    border: 1px solid black;
+
+}
+
+tr.zh{
+    margin-bottom: -10px;
+    
+    width: 100%;
+    height: 20%;
+}
+
+td.zh_red{
+
+    background-color: red;
+    
+}
+
+td.zg_blue,td.zm_green{
+   background-repeat: no-repeat;
+}
+
+td.zg_blue{
+    background-color: blue;
+   width: 20%;
+
+}
+
+td.zm_green{
+    background-color: green;
+   
+}
