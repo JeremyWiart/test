@@ -1,9 +1,11 @@
 main{
-   
-    height: 543px;
+    display: flex;
+    flex-direction: column;
+    height: 520px;
     margin-left: -10px;
-    margin-right: -8px;
-    margin-top: -8px;
+    margin-right: -10px;
+    margin-top: -10px;
+    
     
 }
 
@@ -14,15 +16,28 @@ header.zh{
 }
 
 
-section.zg{
+div.cont{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-bottom: -10px;
+}
+div.zg{
     
     background-color: blue;
     width:20%;
-    height: 80%;
+    height: 100%;
 }
 
-section.zm{
+div.zm{
     background-color: green;
     width:60%;
-    height: 80%;
+    height: 100%;
+}
+
+div.zd{
+    
+    background-color: brown;
+    width:20%;
+    height: 100%;
 }
