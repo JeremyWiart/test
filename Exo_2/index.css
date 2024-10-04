@@ -1,0 +1,125 @@
+body{
+    height: 520px;
+}
+
+main{
+    border: 2px solid purple;
+    height: 80%;
+    width: 100%;
+    display: block;
+    justify-content: center;
+    
+   
+}
+
+header#fond_bleu{
+    width:100%;
+    height: 8%;
+    background-color: aqua;
+   /* margin-top: 0.8%;*/
+    
+}
+
+header#fond_gris{
+    width:100%;
+    height: 10%;
+    background-color: rgb(76, 92, 92);
+    
+    
+}
+
+div.container{
+   
+   display: inline-block;
+   
+   margin-bottom: 0px;
+    margin-left:10%;
+    margin-top: -6%;
+    border: 2px solid red;
+    width: 80%;
+    height: 92%;
+
+}
+
+header#header{
+    border: 2px solid yellow;
+    width: 98%;
+    height: 15%;
+    margin-top:1%;
+    margin-left:1%;
+}    
+
+div.container_1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 97%;
+    margin-left:1%;
+    margin-top: 1%;
+    
+    
+}
+
+div#content{
+    border: 2px solid green;
+    width: 69%;
+    height: 80%;
+    
+}
+
+article#news{
+    border:2px solid blue;
+    width:98%;
+    height:50%;
+    margin-top: 20%;
+    margin-left: 0.5%;
+}
+
+div#sidebar{
+    
+    border: 2px solid goldenrod;
+    height: 80%;
+    width: 28%;
+    margin-right: 2%;
+}
+
+article#subscribe{
+    border: 2px solid purple;
+    width: 98%;
+    height: 20%;
+    margin-top: 2%;
+    margin-left: 0.5%;
+}
+
+article#popular{
+    border: 2px solid purple;
+    width: 98%;
+    height: 20%;
+    margin-top: 2%;
+    margin-left: 0.5%;
+}
+
+article#contributors{
+    border: 2px solid purple;
+    width: 98%;
+    height: 20%;
+    margin-top:2%;
+    margin-left: 0.5%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    border: 2px solid aqua;
+    height: 80px;
+    margin-top: 1.5%;
+    background-color: gray;
+}
+
+article.container{
+    border: 2px solid yellow;
+    width: 20%;
+    height: 80%;
+    margin-top:0.5%;
+
+}
